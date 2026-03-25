@@ -55,4 +55,4 @@ exec-managerial and professional specialty occupations, with
 geographic weighting toward OH.
 
 ## SQL Queries
-See `insurance_fraud_analysis.sql` for all queries used in this analysis.   
+See `insurance claims analysis queries.sql` for all queries used in this analysis.   
